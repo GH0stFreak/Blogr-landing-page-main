@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://catherineisonline.github.io/nft-preview-card-frontendmentor/" color="white" target="_blank">
+    <a href="https://gh0stfreak.github.io/Blogr-landing-page-main/" color="white" target="_blank">
       Live
     </a>
   <span> | 
